@@ -6,6 +6,8 @@
 - Challenge 4: Create a random walk
 - Challenge 5: Make a spirograph
 
-The main lesson was: How to use a Python library. I struggled a lot to search things and looked at Stackoverflow. 
+The main lesson was: How to use a Python library. 
 
-It took another day to complete Day 18 lessons, but in the end, it was so worth i!
+I struggled, searched things, and looked up Stackoverflow. 
+
+It took another day to complete Day 18 lessons, but in the end, it was so worth it!
